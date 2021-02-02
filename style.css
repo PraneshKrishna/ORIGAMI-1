@@ -1,0 +1,15 @@
+h1{
+    color:red;
+    padding-left: 30px;
+    
+}
+
+.heading * {
+    border:solid;
+}
+
+.heading{
+    background-color: rgb(93, 246, 93) ;
+    display:flex;
+    justify-content: space-between ;
+}
